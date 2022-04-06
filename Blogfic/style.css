@@ -1,0 +1,39 @@
+body{
+    background-color:rgb(201, 233, 222);
+    margin:2%;
+}
+
+
+h1 {
+     font-family: 'festive','cursive';
+     width: 90%;
+     margin: 0px auto 0px auto;
+     display: block;
+     
+ }
+
+ .date {
+    font-family: 'Grape nuts';
+    font-weight: 500;
+    color: peru;
+    margin: 30px auto 20px auto;
+    width: 80%;
+    display: block;
+    padding-top: 10px;
+}
+
+ .post-container {
+    width: 70%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+    background-color: #e4ede6;
+ }
+
+ .post-content {
+    font-family: 'mukta';
+    font-weight: 400;
+    margin: 20px auto 10px auto;
+    width: 90%;
+    text-align: justify;
+    padding-bottom: 30px;
+ }
